@@ -1,4 +1,4 @@
-let bestFriends = ['Nosipho', 'Simnikiwe', 'Joshe', 'Buli', 'Emile' , 'camaeron', 'Mikhail', 'Joel', 'clayton', ]
+let bestFriends = ['Nosipho', 'Simnikiwe', 'Joshe', 'Buli', 'Emile' , 'camaeron', 'Mikhail', 'Joel', 'clayton', 'Cassidy']
 
 const last = bestFriends[bestFriends.length - 1];
 
